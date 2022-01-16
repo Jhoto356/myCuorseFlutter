@@ -1,0 +1,14 @@
+void main() {
+  dynamic var1 = "Hello";
+  String var2 = "World";
+  int var3 = 012345678912345678;
+  double var4 = 10.0123456789012345678901234567890123456789;
+  List<dynamic> var5 = [1,"h", 1.5];
+  Map<dynamic, dynamic> var6= {
+    1: "Nombre",
+    2: "Apellido"
+  };
+  bool var7 = false;
+  final String var8 = "Hello";
+  const int var9 = 1;
+}
