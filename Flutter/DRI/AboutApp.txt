@@ -1,0 +1,2 @@
+This app increment, decrement and reset a counter with 3 buttons.
+This is my first App in flutter.
